@@ -94,9 +94,3 @@
 ## 完成打卡
 
 完成计划之后，可以提交 Pull requests，在下面添加自己的项目仓库，完成自己的算法模板打卡呀~
-
-| 完成 | 用户                                              | 项目地址                                                            |
-| ---- | ------------------------------------------------- | ------------------------------------------------------------------- |
-| ✅   | [wardseptember](https://github.com/wardseptember) | [notes(Java 实现)](https://github.com/wardseptember/notes)          |
-| ✅   | [dashidhy](https://github.com/dashidhy) | [algorithm-pattern-python(Python 实现)](https://github.com/dashidhy/algorithm-pattern-python) |
-| ✅   | [da183](https://github.com/da183) | [algorithm-pattern-cpp(C++ 实现)](https://github.com/da183/algorithm-pattern-cpp) |
